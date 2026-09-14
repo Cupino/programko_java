@@ -59,7 +59,7 @@ public class Main {
         }
         else if (operacia.equals("/")) {
             if (b == 0) {
-                System.out.println("Chyba: Nulou sa neda delit!!");
+                System.out.println("Chyba: Nulou sa neda delit!");
             } else {
                 System.out.println("Vysledok je: " + del(a, b));
             }
